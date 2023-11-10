@@ -1,0 +1,142 @@
+{
+  "data": [
+    {
+      "datetime": "10 Nov 2023 18:58:3",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 1
+    },
+    {
+      "datetime": "10 Nov 2023 18:58:4",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 2
+    },
+    {
+      "datetime": "10 Nov 2023 18:58:5",
+      "humidity": 53,
+      "temperature": 33,
+      "id": 3
+    },
+    {
+      "datetime": "10 Nov 2023 18:59:0",
+      "humidity": 51,
+      "temperature": 34,
+      "id": 4
+    },
+    {
+      "datetime": "10 Nov 2023 18:59:1",
+      "humidity": 49,
+      "temperature": 35,
+      "id": 5
+    },
+    {
+      "datetime": "10 Nov 2023 18:59:2",
+      "humidity": 47,
+      "temperature": 35,
+      "id": 6
+    },
+    {
+      "datetime": "10 Nov 2023 18:59:3",
+      "humidity": 48,
+      "temperature": 35,
+      "id": 7
+    },
+    {
+      "datetime": "10 Nov 2023 18:59:4",
+      "humidity": 63,
+      "temperature": 35,
+      "id": 8
+    },
+    {
+      "datetime": "10 Nov 2023 18:59:5",
+      "humidity": 56,
+      "temperature": 34,
+      "id": 9
+    },
+    {
+      "datetime": "10 Nov 2023 19:00:0",
+      "humidity": 53,
+      "temperature": 34,
+      "id": 10
+    },
+    {
+      "datetime": "10 Nov 2023 19:00:1",
+      "humidity": 53,
+      "temperature": 33,
+      "id": 11
+    },
+    {
+      "datetime": "10 Nov 2023 19:00:2",
+      "humidity": 53,
+      "temperature": 33,
+      "id": 12
+    },
+    {
+      "datetime": "10 Nov 2023 19:00:4",
+      "humidity": 52,
+      "temperature": 33,
+      "id": 13
+    },
+    {
+      "datetime": "10 Nov 2023 19:00:5",
+      "humidity": 53,
+      "temperature": 33,
+      "id": 14
+    },
+    {
+      "datetime": "10 Nov 2023 19:01:0",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 15
+    },
+    {
+      "datetime": "10 Nov 2023 19:01:1",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 16
+    },
+    {
+      "datetime": "10 Nov 2023 19:01:2",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 17
+    },
+    {
+      "datetime": "10 Nov 2023 19:01:3",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 18
+    },
+    {
+      "datetime": "10 Nov 2023 19:01:4",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 19
+    },
+    {
+      "datetime": "10 Nov 2023 19:01:5",
+      "humidity": 54,
+      "temperature": 32,
+      "id": 20
+    },
+    {
+      "datetime": "10 Nov 2023 19:02:0",
+      "humidity": 54,
+      "temperature": 31,
+      "id": 21
+    },
+    {
+      "datetime": "10 Nov 2023 19:02:1",
+      "humidity": 55,
+      "temperature": 31,
+      "id": 22
+    },
+    {
+      "datetime": "10 Nov 2023 19:02:2",
+      "humidity": 55,
+      "temperature": 31,
+      "id": 23
+    }
+  ]
+}
